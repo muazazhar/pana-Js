@@ -1,0 +1,13 @@
+console.log("a" == "a");
+console.log("a" != "a");
+console.log("A" == "a");
+console.log(1 == 1);
+console.log(1 != 1);
+console.log(1 >= 1);
+console.log(3 <= 6);
+console.log(3 < 2);
+console.log(3 < 2 && 3 == 3);
+console.log(3 < 2 || "a" == "a");
+arr = [1, 2, 4];
+console.log(arr.includes(2));
+console.log(arr.includes(3));

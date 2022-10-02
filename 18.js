@@ -1,0 +1,10 @@
+loc = ["karachi", "california", "turkey", "sweden", "lahore"];
+console.log(loc);
+console.log([...loc].sort());
+console.log(loc);
+console.log([...loc].reverse());
+console.log(loc);
+console.log(loc.reverse());
+console.log(loc.reverse());
+console.log(loc.sort());
+console.log(loc.sort().reverse());
